@@ -4,11 +4,8 @@
 # This file contains a list of all MPAS-Atmosphere versions that are compatible
 #   with these WRF physics tables.
 #  
-# For assistance in obtaining older versions of these tables, please contact 
-#   the MPAS-A developers via "mpas-atmosphere-help@googlegroups.com".
+# For assistance in obtaining older versions of these tables, please query
+#   the MPAS-Atmosphere support forum at http://forum.mmm.ucar.edu/.
 #
 ################################################################################
-1.0 1.1 1.2 1.3 1.4 1.5
-2.0 2.1
-3.0
-4.0
+7.0
